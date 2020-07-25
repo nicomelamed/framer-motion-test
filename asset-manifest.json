@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/framer-motion-test/static/css/main.523a06b0.chunk.css",
+    "main.js": "/framer-motion-test/static/js/main.e65c048c.chunk.js",
+    "main.js.map": "/framer-motion-test/static/js/main.e65c048c.chunk.js.map",
+    "runtime-main.js": "/framer-motion-test/static/js/runtime-main.4ceec425.js",
+    "runtime-main.js.map": "/framer-motion-test/static/js/runtime-main.4ceec425.js.map",
+    "static/js/2.b0abc458.chunk.js": "/framer-motion-test/static/js/2.b0abc458.chunk.js",
+    "static/js/2.b0abc458.chunk.js.map": "/framer-motion-test/static/js/2.b0abc458.chunk.js.map",
+    "index.html": "/framer-motion-test/index.html",
+    "precache-manifest.b151d7a715ca190eb432f8df9e2510a0.js": "/framer-motion-test/precache-manifest.b151d7a715ca190eb432f8df9e2510a0.js",
+    "service-worker.js": "/framer-motion-test/service-worker.js",
+    "static/css/main.523a06b0.chunk.css.map": "/framer-motion-test/static/css/main.523a06b0.chunk.css.map",
+    "static/js/2.b0abc458.chunk.js.LICENSE.txt": "/framer-motion-test/static/js/2.b0abc458.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/framer-motion-test/static/media/background.d52214a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ceec425.js",
+    "static/js/2.b0abc458.chunk.js",
+    "static/css/main.523a06b0.chunk.css",
+    "static/js/main.e65c048c.chunk.js"
+  ]
+}
